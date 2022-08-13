@@ -8,7 +8,7 @@ note : sudah di test di <b>Windows 10, Kali Linux, Termux</b>
 
 # penggunaan
 
-download : 
+download : [repositori ini](https://github.com/Xnuvers007/watermarkktp/archive/refs/heads/master.zip)
 
 untuk pengguna windows, kalian download repository ini, jika kalian tidak mempunyai python, bisa [Menggunakan Ini](./Watermark.exe)
 
