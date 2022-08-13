@@ -10,16 +10,33 @@ note : sudah di test di <b>Windows 10, Kali Linux, Termux</b>
 
 download : [repositori ini](https://github.com/Xnuvers007/watermarkktp/archive/refs/heads/master.zip)
 
-untuk pengguna windows, kalian download repository ini, jika kalian tidak mempunyai python, bisa [Menggunakan Ini](./Watermark.exe)
+<b>untuk pengguna windows</b>, kalian download repository ini, jika kalian tidak mempunyai python, bisa [Menggunakan Ini](./Watermark.exe)
 
-dan jika pengguna windows memiliki python, gunakan yang ini [watermark.py](./watermark.py)
+<b>dan jika pengguna windows memiliki python</b>, gunakan yang ini [watermark.py](./watermark.py)
 
-untuk Pengguna Linux :
+<b>untuk Pengguna Linux : </b>
+
     - sudo apt install git
+    
     - sudo apt install python3
+    
     - git clone https://github.com/Xnuvers007/watermarkktp.git
+    
     - cd watermarkktp
+    
     - ./watermark.py
+
+<b>Untuk pengguna termux : </b>
+    
+    - pkg install python3 -y
+    
+    - pkg install git
+    
+    - git clone https://github.com/Xnuvers007/watermarkktp.git
+    
+    - cd watermarkktp
+    
+    - python3 watermark.py atau bisa menggunakan ./watermark.py
 
 # Windows
 
