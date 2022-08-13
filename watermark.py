@@ -1605,7 +1605,7 @@ print('''
     [+] Instagram : Indradwi.25
     [+] Youtube : Xnuvers007
     [+] Website : https://mykingbee.blogspot.com
-    [+] License : MIT
+    [+] License : GPL-3.0 license
     [+] Donate : https://saweria.co/xnuvers007
     [+] Donate 2 : https://trakteer.id/Xnuvers007
 ''')
